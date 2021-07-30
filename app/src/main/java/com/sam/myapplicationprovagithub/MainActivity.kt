@@ -14,7 +14,6 @@ class MainActivity : AppCompatActivity() {
         // TUTTO MALE
 
         // Trial sync project
-        //ciaociao
 
     }
 }
